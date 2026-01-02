@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Ready-success)
 ![API](https://img.shields.io/badge/API-FastAPI-green)
 ![MLOps](https://img.shields.io/badge/MLOps-MLflow%20%7C%20CI%2FCD-brightgreen)
-![CI](https://github.com/<YOUR_GITHUB_USERNAME>/baggage-sorting-mlops/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/giannirusso/baggage-sorting-mlops/actions/workflows/ci.yml/badge.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Production-style MLOps project for **anomaly detection** and **throughput optimization** in an industrial baggage sorting context using **PLC-like sensor signals**.  
